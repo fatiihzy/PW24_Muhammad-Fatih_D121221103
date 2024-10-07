@@ -1,0 +1,26 @@
+.nim1 {
+    background-color:aqua;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.text1 {
+    background-color: red;
+}
+
+.nim2 {
+    color: blue;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.text2 {
+    color: red;
+}
+
+.judul {
+    border: 1px solid;
+    border-color: red;
+    display: inline-block;
+    padding-right: 93%;
+}
